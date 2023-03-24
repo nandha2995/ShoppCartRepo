@@ -1,0 +1,8 @@
+com\shoppingcart\qa\pageobjects\RegistrationPage.class
+com\shoppingcart\qa\utilities\MyXLSReader.class
+com\shoppingcart\qa\Base\BaseClass.class
+com\shoppingcart\qa\utilities\ExtentManager.class
+com\shoppingcart\qa\pageobjects\HomePage.class
+com\shoppingcart\qa\utilities\Log.class
+com\shoppingcart\qa\utilities\Listeners.class
+com\shoppingcart\qa\utilities\DataUtil.class
